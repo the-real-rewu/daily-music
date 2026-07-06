@@ -158,17 +158,37 @@ tradition/lineage, whichever applies to this genre), Year, Recommended
 Recording, and Duration (short / medium / long-single-sitting /
 long-multi-day — see Index Schema).
 
+**About the Creator** — Who this attribution actually is, for a listener
+encountering them for the first time: at minimum, when/where they lived or
+were active, how they trained or came up, their broader body of work or
+reputation, and where this piece sits within it (an early/late work? their
+best-known piece, or a deliberately obscure choice? typical of their style,
+or a departure from it?). For a tradition/lineage rather than a single
+named figure, cover the tradition's origin and the lineage this recording
+belongs to instead. Skip only on a "stay" day extending the same
+attribution already introduced in a recent entry — link back to that entry
+instead of repeating it.
+
 **The Expanded Context** — Historical moment, philosophical or cultural
-shift underway, and the creator's intent behind the piece.
+shift underway, and the creator's intent behind the piece. Go beyond a
+single sentence of scene-setting — explain *why* that moment produced this
+piece specifically (a commission, an event, a movement the creator was
+reacting to or advancing), not just what era it falls in.
 
 **The Architecture** — Technical mechanics (form, harmony, orchestration,
 etc.) and the specific analytical "lens" for the day. Any technical term
 should be preceded by a plain-language sentence conveying the same idea —
-the goal is comprehension, not jargon display.
+the goal is comprehension, not jargon display. Cover the piece's overall
+shape (how many sections/movements and how they relate) before zooming into
+the lens for the day, so the listener has a map before the close-up.
 
 **Active Listening Guide** — Chronological timestamp markers noting exactly
-what to listen for, tied to the recommended recording. For long-form works,
-this may be a multi-day plan instead of a single sitting.
+what to listen for, tied to the recommended recording. Each marker should
+say not just *what* happens but *why it matters* — what to notice about it,
+what it connects to elsewhere in the piece, or what makes it a good example
+of the day's Architecture lens. A bare timestamp-and-label list is not
+enough. For long-form works, this may be a multi-day plan instead of a
+single sitting.
 
 **Connections** — How this piece relates to previously covered entries
 (shared form, direct influence, contrast in approach, same era/different
