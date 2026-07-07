@@ -11,3 +11,12 @@ Genre Pool, Recommendation Format, and Index Schema sections are binding,
 not suggestions — including the "surprise me"/"stay" shortcut handling,
 the day-1/tie-break/cold-start rules, and the exact field definitions in
 `INDEX.md`. Read `INDEX.md` in full per step 1 before proposing anything.
+
+After step 9 (appending to the archive), always finish by opening a pull
+request: create a branch, commit the `INDEX.md` and `entries/YYYY.md`
+changes, push, and `gh pr create`. Before pushing to a branch used in a
+prior session, check whether its existing PR was already merged (`gh pr
+view <n> --json state`) rather than assuming a push will update an open
+PR — if it's merged, branch fresh off `master` instead. This is how the
+human receives each day's entry, so it's not optional cleanup — it's the
+last step of the daily procedure, every time.
