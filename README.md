@@ -13,9 +13,10 @@ stays fast to scan as it grows:
   in full; it's the only thing the daily procedure needs to scan for gaps
   and repeats.
 - `entries/YYYY.md` — the full recommendation write-ups, one file per
-  calendar year, created the first time an entry is added in that year. Only
-  open the specific year file(s) you need (e.g., to re-read a "Connections"
-  reference), never all of them.
+  calendar year, created the first time an entry is added in that year, with
+  the newest entry at the top (not the bottom). Only open the specific year
+  file(s) you need (e.g., to re-read a "Connections" reference), never all
+  of them.
 
 ## Daily Procedure
 
@@ -106,9 +107,10 @@ stays fast to scan as it grows:
    structure, extended length, or unfamiliar idiom that rewards focused,
    possibly repeated listening).
 9. **Append to the archive**: add a row to `INDEX.md` (including the
-   Difficulty tag from step 8) and the full entry to the bottom of the
-   current year's `entries/YYYY.md` (creating that file from the template if
-   it doesn't exist yet).
+   Difficulty tag from step 8) and the full entry to the *top* of the
+   current year's `entries/YYYY.md`, directly below the template comment
+   block (creating that file from the template if it doesn't exist yet) —
+   newest entry first, not appended at the bottom.
 
 ## Genre Pool
 
