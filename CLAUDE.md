@@ -20,3 +20,8 @@ view <n> --json state`) rather than assuming a push will update an open
 PR — if it's merged, branch fresh off `master` instead. This is how the
 human receives each day's entry, so it's not optional cleanup — it's the
 last step of the daily procedure, every time.
+
+Once the PR is created, merge it immediately (`gh pr merge --merge`) —
+there's no CI or required review on this repo, so there's no reason to
+wait on a manual click. The human reviews after the fact via git history,
+not by gatekeeping the merge.
