@@ -11,3 +11,4 @@ full write-up behind each row.
 | 2026-07-07 | Romantic-era (Western) | Felix Mendelssohn | Violin Concerto in E minor, Op. 64 | 1844 | medium | accessible |
 | 2026-07-08 | EDM / Electronic Production Lineage | Kraftwerk | Trans-Europe Express | 1977 | short | accessible |
 | 2026-07-09 | Blues / Gospel / R&B-Soul | Sam Cooke | A Change Is Gonna Come | 1964 | short | accessible |
+| 2026-07-10 | 20th/21st-Century Modernist & Electroacoustic Concert Music | Karlheinz Stockhausen | Gesang der Jünglinge | 1955-56 | medium | demanding |
