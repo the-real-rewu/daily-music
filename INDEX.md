@@ -14,3 +14,4 @@ full write-up behind each row.
 | 2026-07-10 | 20th/21st-Century Modernist & Electroacoustic Concert Music | Karlheinz Stockhausen | Gesang der Jünglinge | 1955-56 | medium | demanding |
 | 2026-07-11 | Minimalism (Reich/Glass/Górecki-adjacent) | Philip Glass | Metamorphosis (I-V) | 1988 | medium | accessible |
 | 2026-07-12 | Jazz | Miles Davis | So What | 1959 | short | moderate |
+| 2026-07-13 | Opera / Vocal | Richard Strauss | Four Last Songs | 1948 | medium | moderate |
