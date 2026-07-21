@@ -16,3 +16,4 @@ full write-up behind each row.
 | 2026-07-12 | Jazz | Miles Davis | So What | 1959 | short | moderate |
 | 2026-07-13 | Opera / Vocal | Richard Strauss | Four Last Songs | 1948 | medium | moderate |
 | 2026-07-14 | Western European Folk (Celtic, Nordic, Mediterranean) | Patrick Mòr MacCrimmon | Lament for the Children (Cumha na Cloinne) | 17th c. | medium | demanding |
+| 2026-07-15 | Rock / Metal as Art Form | King Crimson | 21st Century Schizoid Man | 1969 | short | moderate |
