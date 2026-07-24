@@ -18,3 +18,4 @@ full write-up behind each row.
 | 2026-07-14 | Western European Folk (Celtic, Nordic, Mediterranean) | Patrick Mòr MacCrimmon | Lament for the Children (Cumha na Cloinne) | 17th c. | medium | demanding |
 | 2026-07-15 | Rock / Metal as Art Form | King Crimson | 21st Century Schizoid Man | 1969 | short | moderate |
 | 2026-07-16 | Eastern European Folk (Balkan, Klezmer, Slavic) | Naftule Brandwein | Der Heiser Bulgar | 1923 | short | moderate |
+| 2026-07-17 | Carnatic Classical | Muthuswami Dikshitar | Vatapi Ganapatim | early 19th c. | medium | moderate |
