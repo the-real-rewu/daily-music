@@ -20,3 +20,4 @@ full write-up behind each row.
 | 2026-07-16 | Eastern European Folk (Balkan, Klezmer, Slavic) | Naftule Brandwein | Der Heiser Bulgar | 1923 | short | moderate |
 | 2026-07-17 | Carnatic Classical | Muthuswami Dikshitar | Vatapi Ganapatim | early 19th c. | medium | moderate |
 | 2026-07-18 | Persian / Arabic Classical (maqam-based traditions) | Morteza Neydavoud | Morghe Sahar (Bird of Dawn) | 1927 | medium | moderate |
+| 2026-07-19 | African-Diasporic Popular Forms (Afrobeat, highlife, reggae, dancehall) | Fela Kuti and Africa 70 | Zombie | 1976 | long-single-sitting | moderate |
