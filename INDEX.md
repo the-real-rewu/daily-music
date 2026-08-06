@@ -21,3 +21,4 @@ full write-up behind each row.
 | 2026-07-17 | Carnatic Classical | Muthuswami Dikshitar | Vatapi Ganapatim | early 19th c. | medium | moderate |
 | 2026-07-18 | Persian / Arabic Classical (maqam-based traditions) | Morteza Neydavoud | Morghe Sahar (Bird of Dawn) | 1927 | medium | moderate |
 | 2026-07-19 | African-Diasporic Popular Forms (Afrobeat, highlife, reggae, dancehall) | Fela Kuti and Africa 70 | Zombie | 1976 | long-single-sitting | moderate |
+| 2026-08-05 | East Asian Traditional (e.g., Chinese guqin, gagaku) | Guan Pinghu (trad., Sichuan school) | Liu Shui (Flowing Water) | trad. (Spring and Autumn period origins) | medium | demanding |
