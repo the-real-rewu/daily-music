@@ -39,9 +39,9 @@ stays fast to scan as it grows:
      or several. This explicitly overrides the cooldown and repeat rules in
      step 6 — dedup exists to keep the archive varied *by default*, not to
      block deliberate lingering, obsession, or re-listening. Skip step 6 for
-     the day and note the override in Selection Notes. If there's no prior
-     entry to stay on (e.g., an empty `INDEX.md`), note that and proceed via
-     the normal flow (steps 3-6) instead. This applies to the single day
+     the day. If there's no prior entry to stay on (e.g., an empty
+     `INDEX.md`), note that and proceed via the normal flow (steps 3-6)
+     instead. This applies to the single day
      it's invoked only — carrying it forward to the next day requires the
      human to say so again; don't assume it continues silently.
    If neither is invoked, continue to the normal flow below.
@@ -148,12 +148,6 @@ suggests a gap this list doesn't capture.
   compositional choices)
 
 ## Recommendation Format
-
-**Selection Notes** — Any meta-commentary on how today's genre/piece were
-chosen: a "surprise me" or "stay" shortcut invoked (step 2), a no-response
-default (step 3), or the reasoning if the originality check (step 6) made a
-judgment call on attribution cooldown. Omit this field entirely on days
-where none of that applies — it's not required boilerplate.
 
 **The Track** — Title, Attribution (composer, performer, ensemble, or
 tradition/lineage, whichever applies to this genre), Year, Recommended
