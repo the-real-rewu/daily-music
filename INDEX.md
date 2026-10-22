@@ -27,3 +27,4 @@ full write-up behind each row.
 | 2026-08-08 | Latin American Traditions (son/salsa, tango, bossa nova/samba, cumbia, Andean, mariachi) | Antônio Carlos Jobim | Garota de Ipanema (The Girl from Ipanema) | 1962 | short | accessible |
 | 2026-09-29 | Sacred / Liturgical (non-operatic — chant, hymnody, etc.) | Hildegard von Bingen | O Frondens Virga | c. 1140-1160 | short | moderate |
 | 2026-10-03 | Romantic-era (Western) | Antonín Dvořák | Symphony No. 9 "From the New World" (II, Largo) | 1893 | medium | accessible |
+| 2026-10-21 | Indigenous Americas & Oceanic Traditions | Gabby Pahinui | Hiʻilawe | 1946 | short | accessible |
