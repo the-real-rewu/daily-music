@@ -28,3 +28,4 @@ full write-up behind each row.
 | 2026-09-29 | Sacred / Liturgical (non-operatic — chant, hymnody, etc.) | Hildegard von Bingen | O Frondens Virga | c. 1140-1160 | short | moderate |
 | 2026-10-03 | Romantic-era (Western) | Antonín Dvořák | Symphony No. 9 "From the New World" (II, Largo) | 1893 | medium | accessible |
 | 2026-10-21 | Indigenous Americas & Oceanic Traditions | Gabby Pahinui | Hiʻilawe | 1946 | short | accessible |
+| 2026-11-01 | Romantic-era (Western) | Ludwig van Beethoven | Symphony No. 5 in C minor, Op. 67 | 1808 | long-single-sitting | moderate |
